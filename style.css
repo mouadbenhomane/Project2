@@ -131,11 +131,7 @@ h2{
     border: solid 1px white;
     width: 47%;
     box-sizing: border-box;
-<<<<<<< HEAD
     margin-bottom: 40px;
-=======
-    margin-bottom: 50px;
->>>>>>> f9afbad7c6bec620c72a6fa50082d45ef33b98de
 }
 .boxe p:last-of-type{
     font-size: 0.8rem;
