@@ -131,7 +131,7 @@ h2{
     border: solid 1px white;
     width: 47%;
     box-sizing: border-box;
-    /* margin-top: 50px; */
+    margin-bottom: 40px;
 }
 .boxe p:last-of-type{
     font-size: 0.8rem;
